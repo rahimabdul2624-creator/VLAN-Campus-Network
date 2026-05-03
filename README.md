@@ -34,3 +34,6 @@ vlan-campus-network.pkt
 Outcome
 
 Improved network performance and security.
+
+## Testing
+Successfully tested connectivity between VLANs using ping (inter-VLAN routing working).
